@@ -18,7 +18,7 @@ def head():
 
     st.caption("""
         <p style='text-align: center'>
-        by <a href='https://github.com/medlum'>medlum</a>
+        by <a href='https://github.com/emilyyyyyyyyyyyyyyyyyyyyyyyyy'>emilyyyyyyyyyyyyyyyyyyyyyyyyy</a>
         </p>""", unsafe_allow_html=True)
 
     st.write("""
