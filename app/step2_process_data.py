@@ -3,7 +3,7 @@ from cp_dict import cp_dict
 
 #----------------- process shopping malls carpark data -----------------#
 # lta_data is from the api call
-
+print(lta_data)
 malls = []
 for item in lta_data["value"]:
     if item["Area"] != "":
